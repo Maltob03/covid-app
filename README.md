@@ -6,5 +6,6 @@ Lo scopo dell'app è principalmente quello di prendere confidenza con il framewo
 https://corona.lmao.ninja/v2/countries/italy 
 https://corona.lmao.ninja/v2/countries?sort=cases
 
-Una versione precompilata dell'app per android è scaricabile al seguente link
+Una versione precompilata dell'app per android è scaricabile al seguente link:
+https://we.tl/t-BwtyMlSkzv
 
